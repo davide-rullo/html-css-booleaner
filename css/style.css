@@ -15,6 +15,7 @@ header {
 header>img {
     width: 7rem;
     margin-top: 1rem;
+   
 }
 
 h1 {
@@ -45,6 +46,7 @@ h1 {
 main {
 	width: 98%;
 	margin: auto;
+    padding: 0.1rem;
 }
 
 section{
