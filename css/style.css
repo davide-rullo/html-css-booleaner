@@ -57,6 +57,10 @@ section{
     background-color: yellow;
 }
 
+ul{
+    margin: 1rem;
+}
+
 th, td {
     padding: 8px;
 
@@ -72,4 +76,6 @@ th{
 td {
     background-color: lightblue;
 }
-
+table tr:nth-child(even) {
+    background-color: #ffffff;
+  }
