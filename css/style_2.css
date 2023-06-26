@@ -67,6 +67,10 @@ ul{
     margin: 1rem;
 }
 
+table, td, th, tr {
+    border-spacing: 0;
+  }
+
 th, td {
     padding: 8px;
 
