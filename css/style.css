@@ -46,3 +46,11 @@ main {
 	width: 98%;
 	margin: auto;
 }
+
+section{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.yellow{
+    background-color: yellow;
+}
